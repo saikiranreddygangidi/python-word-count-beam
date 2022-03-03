@@ -9,5 +9,5 @@ Step6 : in next step copy the python code and sample file in root directory and 
 Output will generate 
 ```
 
-![image]()
-![image2]()
+![image](https://github.com/saikiranreddygangidi/python-word-count-beam/blob/master/image1.png)
+![image2](https://github.com/saikiranreddygangidi/python-word-count-beam/blob/master/image2.png)
